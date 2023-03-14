@@ -60,10 +60,10 @@ btnScrollTo.addEventListener("click", function (e) {
 });
 
 //მაუსის მიტანისას რეაგირება(hover)
-const h1 = document.querySelector("h1");
-h1.addEventListener("mouseenter", function (e) {
-  alert("tqven naxet es winanadadeba");
-});
+// const h1 = document.querySelector("h1");
+// h1.addEventListener("mouseenter", function (e) {
+//   alert("tqven naxet es winanadadeba");
+// });
 
 //რადგან fatures, operations, testimonials აქვს უკვე გაწერილი სქროლვის href
 //ჩვენ ამ მონაკვეთისვთის უნდა შევქმნათ კოდი რათა მაუსის დაწერისას ნელა ჩამოიწიოს
